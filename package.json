@@ -10,5 +10,8 @@
   },
   "scripts": {
     "start": "arlocal --persist --dbpath /data"
+  },
+  "engine": {
+    "node": "16.x"
   }
 }
