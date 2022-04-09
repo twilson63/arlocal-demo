@@ -1,0 +1,14 @@
+{
+  "name": "arlocal-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/arlocal-demo.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "dependencies": {
+    "arlocal": "^1.1.30"
+  },
+  "scripts": {
+    "start": "arlocal --persist --dbpath /data"
+  }
+}
